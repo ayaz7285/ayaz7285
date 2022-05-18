@@ -2,7 +2,8 @@
 #### A passionate learner from India
 ![A passionate learner from India](https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710244?k=20&m=1241710244&s=612x612&w=0&h=RqGpgs6pK0cC7C-P70rgtf0iPFaQLTfa0X3eNJiYRCs=)
 
-I am pursuing BTech. in Electrical Engineering from IIT BHU. I am passionate about programming and I love building cool and useful stuffs.
+I am pursuing BTech. in Electrical Engineering from IIT BHU. 
+I am passionate about programming and I love building cool and useful stuffs.
 
 Skills: NODE / EXPRESS / REACT / JS / HTML / CSS / MONGO DB / GIT / C++ / PYTHON 
 
