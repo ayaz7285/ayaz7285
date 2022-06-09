@@ -5,7 +5,7 @@
 I am pursuing BTech. in Electrical Engineering from IIT BHU. 
 I am passionate about programming and I love building cool and useful stuffs.
 
-Skills: NODE / EXPRESS / REACT / JS / HTML / CSS / MONGO DB / GIT / C++ / PYTHON 
+Skills: NODE / EXPRESS / REACT / JS / HTML / CSS / MONGO DB / GIT / C++ / PYTHON /Maven
 
 - 🔭 I’m currently working on my internship at Persistent Solutions 
 - 🌱 I’m currently learning Data structures and Algorithms and Web development 
