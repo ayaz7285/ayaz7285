@@ -13,7 +13,7 @@ Skills: NODE / EXPRESS / REACT / JS / HTML / CSS / MONGO DB / GIT / C++ / PYTHON
 - 📫 How to reach me: ayaz.3.sarwarchem@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayaz7285)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayaz-sarwar-68397a1b4/?originalSubdomain=in/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayaz7285.github.io/Portfolio/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayaz7285)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayaz-sarwar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayaz7285.github.io/Portfolio/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz7285)](https://github.com/anuraghazra/github-readme-stats)
 
